@@ -1,0 +1,11 @@
+.middle-content{
+  position: relative;
+  z-index: 300;
+  background-color: white !important;
+  width: 100%;
+  text-align: center;
+}
+.index-main{
+  z-index: -100;
+  width: 100%;
+}
